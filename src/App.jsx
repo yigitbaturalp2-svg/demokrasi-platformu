@@ -469,8 +469,8 @@ export default function App() {
       {showInstallModal && (
         <InstallModal
           onClose={() => setShowInstallModal(false)}
-          publicUrl="https://bumpy-dryers-cheer.loca.lt"
-          tunnelPassword="81.213.46.54"
+          publicUrl="https://yigitbaturalp2-svg.github.io/demokrasi-platformu/"
+          tunnelPassword=""
         />
       )}
 
